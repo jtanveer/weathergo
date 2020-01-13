@@ -1,4 +1,4 @@
-# weather_go
+# Weather Go
 
 A simple yet beautiful weather app
 
